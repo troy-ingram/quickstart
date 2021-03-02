@@ -1,3 +1,5 @@
 This is an intro to the git quickstart.
 
 Make change
+
+Making another change from the quickstart-branch
